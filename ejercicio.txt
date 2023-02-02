@@ -1,0 +1,3 @@
+Desde la rama RBD/este_corazon crear una NUEVA con otra cancion de RBD :)))
+La rama tiene que llamarse rbd/<nombre_de_la_cancion>
+Y en esta rama debe de hasber un archivo de texto nuevo con las lyrics de la cancions
