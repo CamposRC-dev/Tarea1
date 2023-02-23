@@ -1,0 +1,12 @@
+El PR https://github.com/CamposRC-dev/Tarea1/pull/3 tiene conflictos.
+
+Esto se debe porque la rama a mergear y la rama apuntada tienen discrepancias. En este caso es develop y feature/rama-apuntando-a-otra-rama;
+
+Tarea: 
+1 - Solucionar los conflictos localmente
+2 - Ir a la rama que se quiere mergear y darle un git merge con la rama a la que esta apuntando (git merge develop)
+3 - Recomandado hacer esto en la terminal de Visual Studio Code
+4 - Elegir entre incomming changes, current changes, or both.
+5 - Una vez elegido, agregarlos y commitearlos.
+6 - Hacer push.
+7 - Al hacer push del commit que resuelve los conflictos. EL PULL REQUEST en automatico se actualiza y ya no te tiene que aparecer con conflictos.
